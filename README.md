@@ -5,8 +5,8 @@ A public dataset of marathon results, gathered from across the web.  I have take
 
 ## Marathons Included
 
-|Marathon Name | Years | Gender | Age | Age Group | Country | Splits
-|---|---|---|---|---|---|---|
-|Chicago| x - x | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | 13.1
-|London| x - x | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | 13.1
-|Portland | 2014 - 2019 | :heavy_check_mark:| :heavy_check_mark: | :x: | :x: | :x:
+|Marathon Name | Years | Num Results | Gender | Age | Age Group | Country | Splits
+|---|---|---|---|---|---|---|---|
+|Chicago| x - x | | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | 13.1
+|London| 2014 - 2018 | 191,994 | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | 13.1
+|Portland | 2014 - 2019 | 21,991 | :heavy_check_mark:| :heavy_check_mark: | :x: | :x: | :x:
