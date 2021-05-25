@@ -1,5 +1,5 @@
 # :checkered_flag: marathon-results :runner:
-A public dataset of marathon results, gathered from across the web.  I have taken data from original sources, but cannot guarantee accuracy of results.
+A public dataset of marathon results, gathered from across the web.  I have taken data from original sources, but cannot guarantee accuracy of results.  Moreover, this project is still in the data gathering phase, and no attempts at cleaning the data have been made yet.
 
 **Disclaimer:** each timing website provides differing amounts of information (eg: split times), even sometimes between years on the same race.  The table below highlits the included race results, as well as the level of information included.
 
