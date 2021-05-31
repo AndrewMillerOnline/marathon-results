@@ -7,7 +7,7 @@ A public dataset of marathon results, gathered from across the web.  I have take
 
 |Marathon Name | Years | Num Results | Gender | Age | Age Group | Country | Splits
 |---|---|---|---|---|---|---|---|
-|Berlin| 2009 - 2019 | 398,155 | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | All
+|Berlin| 1999 - 2019 | 678,749 | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | All
 |Chicago| 2000 - 2018 | 666,874 | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | 13.1
 |London| 2010 - 2018 | 301,994 | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | 13.1
 |Portland | 2014 - 2019 | 21,991 | :heavy_check_mark:| :heavy_check_mark: | :x: | :x: | :x:
