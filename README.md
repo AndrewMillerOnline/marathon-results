@@ -11,4 +11,5 @@ A public dataset of marathon results, gathered from across the web.  I have take
 |Boston| 1897 - 2000 | 200,727 | :heavy_check_mark: | :x: | :x: | :x: | :x:
 |Chicago| 2000 - 2018 | 666,874 | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | 13.1
 |London| 2010 - 2018 | 301,994 | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | 13.1
+|New York City| 2014 - 2019 | 303,943 | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark: | :x:
 |Portland | 2014 - 2019 | 21,991 | :heavy_check_mark:| :heavy_check_mark: | :x: | :x: | :x:
